@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 💬 My name is Quoc Anh Le (or Darren Le). I am currently pursuing my Bachelor's Degree in Computer Science and Economics, with a concentration in Policy, at New York University (NYU). 
 
