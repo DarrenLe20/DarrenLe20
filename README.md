@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-💬 My name is Quoc Anh Le (or Darren Le). I am currently pursuing my Bachelor's Degree in Computer Science and Economics, with a concentration in Policy, at New York University. 
+💬 My name is Quoc Anh Le (or Darren Le). I am currently pursuing my Bachelor's Degree in Computer Science and Economics, with a concentration in Policy, at New York University (NYU). 
 
-🌱 I was first exposed to Programming and Computer Science in 2020 with Python, when I fell in love with the subject and decided to dedicate myself to a career in Development. Since then, I have become more proficient at various languages, including Python, Java, and C. I am also self-taught in Web Development, specializing in Front-End Development with Javascript and ReactJS. 
+🌱 I was first exposed to Programming and Computer Science in 2020 with Python, when I fell in love with the subject and decided to dedicate myself to a career in Development. Since then, I have become more proficient in various languages, including **Python**, **Java**, and **C**. I am also currently self-taught in Web Development, specializing in **Front-End Development** with **Javascript** and **ReactJS**. 
 
-📫 If you have any professional inquiries, please don't hesitate to reach me at my email: qal207@nyu.edu, or my number: (917)-325-2806.
+📫 If you have any professional inquiries, please don't hesitate to reach me at my email: **qal207@nyu.edu**, or my number: (**917)-325-2806**.
 
 
 
